@@ -1,0 +1,1298 @@
+[
+  {
+    "name": "Alimentación equilibrio para pérdida de peso",
+    "protein": {
+      "percentage": 30,
+      "Omega_3": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B12": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Licina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      }
+    },
+    "fat": {
+      "percentage": 10,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Vitamina_E": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_D": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      }
+    },
+    "carbohydrates": {
+      "percentage": 60,
+      "Fibra": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": false,
+        "dinner": true
+      },
+      "Azucares": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Omega_3": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Vitamina_C": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      }
+    }
+  },
+  {
+    "name": "Alimentación con conciencia plena (mental fitness)",
+    "protein": {
+      "percentage": 40,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "B12": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Licina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      }
+    },
+    "fat": {
+      "percentage": 30,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B1": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B6": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B9": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_D": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      }
+    },
+    "carbohydrates": {
+      "percentage": 30,
+      "Fibra": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Azucares": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Omega_3": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Vitamina_C": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Q10": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      }
+    }
+  },
+  {
+    "name": "Alimentación Antiinflamatoria",
+    "protein": {
+      "percentage": 10,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": true
+      },
+      "B12": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Licina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      }
+    },
+    "fat": {
+      "percentage": 20,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_D": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      }
+    },
+    "carbohydrates": {
+      "percentage": 70,
+      "Fibra": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Azucares": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": true
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_C": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": false,
+        "dinner": true
+      },
+      "Zinc": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": false,
+        "dinner": true
+      },
+      "Triptofano": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": false,
+        "dinner": true
+      }
+    }
+  },
+  {
+    "name": "Alimentación Antiestrés",
+    "protein": {
+      "percentage": 20,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "B12": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Licina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      }
+    },
+    "fat": {
+      "percentage": 40,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_D": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      }
+    },
+    "carbohydrates": {
+      "percentage": 40,
+      "Fibra": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Azucares": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Omega_3": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_E": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_C": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      }
+    }
+  },
+  {
+    "name": "Alimentación fortalecimiento intestinal",
+    "protein": {
+      "percentage": 20,
+      "Omega_3": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B12": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Licina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      }
+    },
+    "fat": {
+      "percentage": 20,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Vitamina_D": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      }
+    },
+    "carbohydrates": {
+      "percentage": 60,
+      "Fibra": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Azucares": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Vitamina_C": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      }
+    }
+  },
+  {
+    "name": "Alimentación para disminución de grasa corporal",
+    "protein": {
+      "percentage": 30,
+      "Omega_3": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B12": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Licina": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Lecitina": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Q10": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      }
+    },
+    "fat": {
+      "percentage": 15,
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": false
+      },
+      "B1": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Zinc": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Triptofano": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Vitamina_D": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      }
+    },
+    "carbohydrates": {
+      "percentage": 55,
+      "Fibra": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "Azucares": {
+        "priority": 0,
+        "breakfast": false,
+        "launch": false,
+        "dinner": false
+      },
+      "Omega_3": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Vitamina_E": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "Vitamina_C": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": true,
+        "dinner": true
+      },
+      "B1": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "B6": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "B9": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": true,
+        "dinner": false
+      },
+      "Lecitina": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "Q10": {
+        "priority": 1,
+        "breakfast": true,
+        "launch": false,
+        "dinner": false
+      },
+      "Magnesio": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": false,
+        "dinner": true
+      },
+      "Zinc": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": false,
+        "dinner": true
+      },
+      "Triptofano": {
+        "priority": 1,
+        "breakfast": false,
+        "launch": false,
+        "dinner": true
+      }
+    }
+  }
+]

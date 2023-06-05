@@ -1,0 +1,11 @@
+# node mudoles
+/node_modules
+
+# build folder
+/build
+
+# prettier config
+.prettierrc.json
+
+# env varibles
+.env
